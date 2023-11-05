@@ -1,0 +1,2 @@
+API KEY= 14e4305f25b508c1d1c76296afc538ca
+Row title="Trending Now" fetchUrl={requests.fetchTrending}
